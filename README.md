@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://telegra.ph/file/4bb5fd0de189c0ccd5fd6.jpg" alt="my banner">
+  <img src="" alt="my banner">
 </p>
 
 <h3 align="center">
-Hi there, I'm Dilshodbek
+Hi there, I'm Yulduz
 </h3>
 
 <h2 align="center">
@@ -12,17 +12,16 @@ A passionate backend developer from Uzbekistan
 
 
 
-<p align="left"> <a href="https://github.com/devabsaitov"><img src="https://github-profile-trophy.vercel.app/?username=dilshoduz" alt="dilshoduz" /></a> </p>
+<p align="left"> <a href="https://github.com/yulduz1007"><img src="https://github-profile-trophy.vercel.app/?username=yulduz" alt="yulduz" /></a> </p>
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/ahrorbek-turginboyev-b31263251/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/yulduz-soipova-634881324/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://t.me/absaitov_dilshod"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 <a href="https://leetcode.com/kodernet/"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Yu Shi | Medium" width="21px"/></a>
 </br>
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-- 🔶 Know about my experiences by this [Resume](https://github.com/akhroruz/akhroruz/blob/main/AhrorTurginboyev.pdf)
 
 
 ## Technical Skills
@@ -61,10 +60,10 @@ A passionate backend developer from Uzbekistan
 ![](https://img.shields.io/badge/Trello-information?color=%23026AA7&style=flat&logo=Trello&logoColor=white)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhroruz&show_icons=true&locale=en&layout=compact" alt="akhroruz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yulduz&show_icons=true&locale=en&layout=compact" alt="yulduz1007" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhroruz&show_icons=true&locale=en" alt="akhroruz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yulduz1007&show_icons=true&locale=en" alt="yulduz1007" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhroruz&" alt="akhroruz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yulduz1007&" alt="yulduz1007" /></p>
 
-[![Ahror's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=akhroruz&theme=high-contrast)](https://github.com/akhroruz/github-readme-activity-graph)
+[![Yulduz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yulduz1007&theme=high-contrast)](https://github.com/yulduz1007/github-readme-activity-graph)
